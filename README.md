@@ -1,8 +1,8 @@
 # Practica1
 #### Ejecicio Práctica 1
 ### MIS HOBBIES
-_Desde pequeño me encanta hacer deporte, me considero un chico hiperactivo, todas las tardes salía a jugar a Fútbol,correr... etc unas 5 o 6 horas.
-A atletismo no he ido aunque si he corrido alguna que otra carrera; pero a futbol fui 3 años, de los cuales solo 1 a fútbol 11 pero tengo pensado apuntarme en un futuro cuando me vaya a vivir independizado y estudiando a alguna ciudad. Yo tengo confianza, en que si me inscribo en alguna ciudad que esté en primera división acabo jugando en un equipo de primera división en algunos años. _
+Desde pequeño me encanta hacer deporte, me considero un chico hiperactivo, todas las tardes salía a jugar a Fútbol,correr... etc unas 5 o 6 horas.
+A atletismo no he ido aunque si he corrido alguna que otra carrera; pero a futbol fui 3 años, de los cuales solo 1 a fútbol 11 pero tengo pensado apuntarme en un futuro cuando me vaya a vivir independizado y estudiando a alguna ciudad. Yo tengo confianza, en que si me inscribo en alguna ciudad que esté en primera división acabo jugando en un equipo de primera división en algunos años.
 ## FÚTBOL
 ![](https://ep01.epimg.net/elpais/imagenes/2017/09/28/mamas_papas/1506596824_786424_1506606784_noticia_normal.jpg)
 Llegar a ser un gran futbolista ha sido mi sueño toda la vida, verme debutando en un buen equipo e incluso marcando algún gol.
